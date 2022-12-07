@@ -1,1 +1,1 @@
-person page
+personal page
